@@ -1,0 +1,11 @@
+POST http://localhost:8000/links
+Content-Type: application/json
+
+{
+  "url": "google.com"
+}
+
+###
+GET http://localhost:8000/obPnvuh7d
+
+
